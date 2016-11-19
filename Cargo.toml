@@ -1,0 +1,6 @@
+[package]
+name = "wpop"
+version = "0.1.0"
+authors = ["Andrew Jeffery <andrew@aj.id.au>"]
+
+[dependencies]
